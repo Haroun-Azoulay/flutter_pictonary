@@ -36,11 +36,11 @@ I try a simple architecture about my project:
 
 ## Screen of my pictonnary
 
-![Cover](https://github.com/Haroun-Azoulay/flutter_pictonary/blob/main/img/db.png)
-![Cover](https://github.com/Haroun-Azoulay/flutter_pictonary/blob/main/img/authentication.png)
-![Cover](https://github.com/Haroun-Azoulay/flutter_pictonary/blob/main/img/rules.png)
-![Cover](https://github.com/Haroun-Azoulay/flutter_pictonaryy/blob/main/img/user_player.png)
-![Cover](https://github.com/Haroun-Azoulay/flutter_pictonaryy/blob/main/img/victory.png)
+![Cover](https://github.com/Haroun-Azoulay/flutter_pictonnary/blob/main/img/db.png)
+![Cover](https://github.com/Haroun-Azoulay/flutter_pictonnary/blob/main/img/authentication.png)
+![Cover](https://github.com/Haroun-Azoulay/flutter_pictonnary/blob/main/img/rules.png)
+![Cover](https://github.com/Haroun-Azoulay/flutter_pictonnary/blob/main/img/user_player.png)
+![Cover](https://github.com/Haroun-Azoulay/flutter_pictonnary/blob/main/img/victory.png)
 
 ## Commentary
 
