@@ -44,7 +44,7 @@ I try a simple architecture about my project:
 
 ## Commentary
 
-it's not perfect. I think I want to use thread for the timer because I have a small time lag between the drawer and the user. I have a little bug after winning because when I delete my room after the new party, all the players are drawers but it's my first project on mobile.
+I think I want to use thread for the timer because I have a small time lag between the drawer and the user. I have a little bug after winning because when I delete my room after the new party, all the players are drawers but it's my first project on mobile.
 
 
 ## Author
