@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888738563840",
+    "project_id": "pictonary-exam",
+    "storage_bucket": "pictonary-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888738563840:android:767ef0af858eedeb01d5e5",
+        "android_client_info": {
+          "package_name": "com.example.my_pictonnary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0b3lo5HTd1Og-k5EGJS2oQQG5k7xjXC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
